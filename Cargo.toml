@@ -30,5 +30,6 @@ ndarray = "0.17.1"
 pico-args = "0.5.0"
 rayon = "1.11.0"
 tinyjson = "2.5.1"
+z3 = "0.19.6"
 
 # Solution dependencies
